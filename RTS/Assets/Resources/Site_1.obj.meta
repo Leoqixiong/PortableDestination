@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 8cde0da7443971b4da529a004c8bb3c4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Buildings_2014
+    100002: ground
+    100004: mesh_in_site_3__commercial
+    100006: mesh_in_site_3__education
+    100008: mesh_in_site_3__industrial
+    100010: mesh_in_site_3__office
+    100012: mesh_in_site_3__residential
+    100014: mesh_in_site_3__service
+    100016: //RootNode
+    100018: streets
+    100020: water
+    400000: Buildings_2014
+    400002: ground
+    400004: mesh_in_site_3__commercial
+    400006: mesh_in_site_3__education
+    400008: mesh_in_site_3__industrial
+    400010: mesh_in_site_3__office
+    400012: mesh_in_site_3__residential
+    400014: mesh_in_site_3__service
+    400016: //RootNode
+    400018: streets
+    400020: water
+    2100000: Default
+    2100002: New
+    2300000: Buildings_2014
+    2300002: ground
+    2300004: mesh_in_site_3__commercial
+    2300006: mesh_in_site_3__education
+    2300008: mesh_in_site_3__industrial
+    2300010: mesh_in_site_3__office
+    2300012: mesh_in_site_3__residential
+    2300014: mesh_in_site_3__service
+    2300016: streets
+    2300018: water
+    3300000: Buildings_2014
+    3300002: ground
+    3300004: mesh_in_site_3__commercial
+    3300006: mesh_in_site_3__education
+    3300008: mesh_in_site_3__industrial
+    3300010: mesh_in_site_3__office
+    3300012: mesh_in_site_3__residential
+    3300014: mesh_in_site_3__service
+    3300016: streets
+    3300018: water
+    4300000: Buildings_2014
+    4300002: ground
+    4300004: mesh_in_site_3__commercial
+    4300006: mesh_in_site_3__education
+    4300008: mesh_in_site_3__industrial
+    4300010: mesh_in_site_3__office
+    4300012: mesh_in_site_3__residential
+    4300014: mesh_in_site_3__service
+    4300016: streets
+    4300018: water
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
